@@ -1,3 +1,3 @@
-# Advanced Mechanisms (EMT 1220)
+# Advanced Mechanisms (EMT 2320)
 
 Arduino Circuits
