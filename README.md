@@ -1,1 +1,1 @@
-# Advanced-Mechanisms-
+# Advanced Mechanisms (EMT 1220)
